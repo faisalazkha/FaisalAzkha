@@ -1,0 +1,35 @@
+body{color:navy}
+h1 {font-family:Arial}
+c  {text-decoration:underline}
+
+b em{font-family:Time New Roman;background:red;color:white}
+
+/* Tag Element*/
+h1{color:green}
+i{font-style:normal}
+
+/*Class*/
+.mhs{border:black solid 1;color:gray}
+.nama{font:bold 20 Time New Roman}
+
+/*ID*/
+#mhs02{color:red}
+
+/*Kontekstual*/
+h1 i{color:navy}
+div.mhs .alamat b{color:green}
+h{
+    color:yellow;
+}
+K{
+    color:blue;
+}
+g{
+    color:purple;
+}
+J{
+	color:red;
+}
+I{
+	color:green;
+}
